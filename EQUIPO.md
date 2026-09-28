@@ -8,4 +8,4 @@ Cada integrante completa **su propia fila** con un commit propio: cambia los ___
 | Anthony Landeta (líder) | @___ | https://github.com/___ | ___ |
 | Paula Paredes | @___ | https://github.com/___ | ___ |
 | Saúl Robalino | @___ | https://github.com/___ | ___ |
-| David Uriguen | @___ | https://github.com/___ | ___ |
+| David Uriguen | @_daviduriguen__ | https://github.com/_daviduriguen__ | _a trabajar y ayudar a mi compañeros__ |
